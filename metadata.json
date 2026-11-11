@@ -1,0 +1,6 @@
+{
+  "name": "VaultPass - Secure Password Manager",
+  "description": "Aplikasi pengelola password modern dengan Face ID, Touch ID, enkripsi AES-256 client-side, dan integrasi Supabase RLS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
